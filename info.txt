@@ -1,3 +1,5 @@
 Apple a day
 Kubernetes is container orchestration tool
 Manoj Takwade
+Candidate-1 added
+Candidate-2 added
