@@ -5,9 +5,6 @@ Docker has become very popular tool
 Candidate-1 added
 Candidate-2 added
 Candidate-3 added
-<<<<<<< HEAD
 Maven 
-=======
 Manoj Takwade
 test for pull request
->>>>>>> cdded02880d52c33f383778c180e566deb9191f1
