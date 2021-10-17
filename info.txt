@@ -3,4 +3,4 @@ Kubernetes is container orchestration tool
 Manoj Takwade
 Candidate-1 added
 Candidate-2 added
-Candidate-3 added
+
